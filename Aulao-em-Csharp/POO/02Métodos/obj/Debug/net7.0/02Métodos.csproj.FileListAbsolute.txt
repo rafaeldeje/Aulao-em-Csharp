@@ -1,0 +1,30 @@
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\02Métodos\bin\Debug\net7.0\02Métodos.exe
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\02Métodos\bin\Debug\net7.0\02Métodos.deps.json
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\02Métodos\bin\Debug\net7.0\02Métodos.runtimeconfig.json
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\02Métodos\bin\Debug\net7.0\02Métodos.dll
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\02Métodos\bin\Debug\net7.0\02Métodos.pdb
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\02Métodos\obj\Debug\net7.0\02Métodos.csproj.AssemblyReference.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\02Métodos\obj\Debug\net7.0\02Métodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\02Métodos\obj\Debug\net7.0\02Métodos.AssemblyInfoInputs.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\02Métodos\obj\Debug\net7.0\02Métodos.AssemblyInfo.cs
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\02Métodos\obj\Debug\net7.0\02Métodos.csproj.CoreCompileInputs.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\02Métodos\obj\Debug\net7.0\02Métodos.dll
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\02Métodos\obj\Debug\net7.0\refint\02Métodos.dll
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\02Métodos\obj\Debug\net7.0\02Métodos.pdb
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\02Métodos\obj\Debug\net7.0\02Métodos.genruntimeconfig.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\02Métodos\obj\Debug\net7.0\ref\02Métodos.dll
+C:\Codes\Csharp\Aulao-em-Csharp\POO\02Métodos\bin\Debug\net7.0\02Métodos.exe
+C:\Codes\Csharp\Aulao-em-Csharp\POO\02Métodos\bin\Debug\net7.0\02Métodos.deps.json
+C:\Codes\Csharp\Aulao-em-Csharp\POO\02Métodos\bin\Debug\net7.0\02Métodos.runtimeconfig.json
+C:\Codes\Csharp\Aulao-em-Csharp\POO\02Métodos\bin\Debug\net7.0\02Métodos.dll
+C:\Codes\Csharp\Aulao-em-Csharp\POO\02Métodos\bin\Debug\net7.0\02Métodos.pdb
+C:\Codes\Csharp\Aulao-em-Csharp\POO\02Métodos\obj\Debug\net7.0\02Métodos.csproj.AssemblyReference.cache
+C:\Codes\Csharp\Aulao-em-Csharp\POO\02Métodos\obj\Debug\net7.0\02Métodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\Csharp\Aulao-em-Csharp\POO\02Métodos\obj\Debug\net7.0\02Métodos.AssemblyInfoInputs.cache
+C:\Codes\Csharp\Aulao-em-Csharp\POO\02Métodos\obj\Debug\net7.0\02Métodos.AssemblyInfo.cs
+C:\Codes\Csharp\Aulao-em-Csharp\POO\02Métodos\obj\Debug\net7.0\02Métodos.csproj.CoreCompileInputs.cache
+C:\Codes\Csharp\Aulao-em-Csharp\POO\02Métodos\obj\Debug\net7.0\02Métodos.dll
+C:\Codes\Csharp\Aulao-em-Csharp\POO\02Métodos\obj\Debug\net7.0\refint\02Métodos.dll
+C:\Codes\Csharp\Aulao-em-Csharp\POO\02Métodos\obj\Debug\net7.0\02Métodos.pdb
+C:\Codes\Csharp\Aulao-em-Csharp\POO\02Métodos\obj\Debug\net7.0\02Métodos.genruntimeconfig.cache
+C:\Codes\Csharp\Aulao-em-Csharp\POO\02Métodos\obj\Debug\net7.0\ref\02Métodos.dll

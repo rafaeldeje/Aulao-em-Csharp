@@ -1,0 +1,8 @@
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\olaSeuNome\bin\Debug\olaSeuNome.exe.config
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\olaSeuNome\bin\Debug\olaSeuNome.exe
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\olaSeuNome\bin\Debug\olaSeuNome.pdb
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\olaSeuNome\obj\Debug\olaSeuNome.csproj.AssemblyReference.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\olaSeuNome\obj\Debug\olaSeuNome.csproj.SuggestedBindingRedirects.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\olaSeuNome\obj\Debug\olaSeuNome.csproj.CoreCompileInputs.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\olaSeuNome\obj\Debug\olaSeuNome.exe
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\olaSeuNome\obj\Debug\olaSeuNome.pdb

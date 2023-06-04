@@ -1,0 +1,16 @@
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\chamandoUmaArray\obj\Debug\chamandoUmaArray.csproj.AssemblyReference.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\chamandoUmaArray\obj\Debug\chamandoUmaArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\chamandoUmaArray\obj\Debug\chamandoUmaArray.csproj.CoreCompileInputs.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\chamandoUmaArray\bin\Debug\chamandoUmaArray.exe.config
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\chamandoUmaArray\bin\Debug\chamandoUmaArray.exe
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\chamandoUmaArray\bin\Debug\chamandoUmaArray.pdb
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\chamandoUmaArray\obj\Debug\chamandoUmaArray.exe
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\chamandoUmaArray\obj\Debug\chamandoUmaArray.pdb
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\chamandoUmaArray\obj\Debug\chamandoUmaArray.csproj.AssemblyReference.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\chamandoUmaArray\obj\Debug\chamandoUmaArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\chamandoUmaArray\obj\Debug\chamandoUmaArray.csproj.CoreCompileInputs.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\chamandoUmaArray\obj\Debug\chamandoUmaArray.exe
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\chamandoUmaArray\obj\Debug\chamandoUmaArray.pdb
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\chamandoUmaArray\bin\Debug\chamandoUmaArray.exe.config
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\chamandoUmaArray\bin\Debug\chamandoUmaArray.exe
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\chamandoUmaArray\bin\Debug\chamandoUmaArray.pdb

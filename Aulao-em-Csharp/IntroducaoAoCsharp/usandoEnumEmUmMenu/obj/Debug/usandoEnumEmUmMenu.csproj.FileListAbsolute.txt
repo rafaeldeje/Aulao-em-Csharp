@@ -1,0 +1,8 @@
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\usandoEnumEmUmMenu\bin\Debug\usandoEnumEmUmMenu.exe.config
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\usandoEnumEmUmMenu\bin\Debug\usandoEnumEmUmMenu.exe
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\usandoEnumEmUmMenu\bin\Debug\usandoEnumEmUmMenu.pdb
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\usandoEnumEmUmMenu\obj\Debug\usandoEnumEmUmMenu.csproj.AssemblyReference.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\usandoEnumEmUmMenu\obj\Debug\usandoEnumEmUmMenu.csproj.SuggestedBindingRedirects.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\usandoEnumEmUmMenu\obj\Debug\usandoEnumEmUmMenu.csproj.CoreCompileInputs.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\usandoEnumEmUmMenu\obj\Debug\usandoEnumEmUmMenu.exe
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\usandoEnumEmUmMenu\obj\Debug\usandoEnumEmUmMenu.pdb

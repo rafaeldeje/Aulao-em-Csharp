@@ -1,0 +1,30 @@
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\03ExercicioEscolar\bin\Debug\net7.0\03ExercicioEscolar.exe
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\03ExercicioEscolar\bin\Debug\net7.0\03ExercicioEscolar.deps.json
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\03ExercicioEscolar\bin\Debug\net7.0\03ExercicioEscolar.runtimeconfig.json
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\03ExercicioEscolar\bin\Debug\net7.0\03ExercicioEscolar.dll
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\03ExercicioEscolar\bin\Debug\net7.0\03ExercicioEscolar.pdb
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\03ExercicioEscolar\obj\Debug\net7.0\03ExercicioEscolar.csproj.AssemblyReference.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\03ExercicioEscolar\obj\Debug\net7.0\03ExercicioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\03ExercicioEscolar\obj\Debug\net7.0\03ExercicioEscolar.AssemblyInfoInputs.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\03ExercicioEscolar\obj\Debug\net7.0\03ExercicioEscolar.AssemblyInfo.cs
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\03ExercicioEscolar\obj\Debug\net7.0\03ExercicioEscolar.csproj.CoreCompileInputs.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\03ExercicioEscolar\obj\Debug\net7.0\03ExercicioEscolar.dll
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\03ExercicioEscolar\obj\Debug\net7.0\refint\03ExercicioEscolar.dll
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\03ExercicioEscolar\obj\Debug\net7.0\03ExercicioEscolar.pdb
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\03ExercicioEscolar\obj\Debug\net7.0\03ExercicioEscolar.genruntimeconfig.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\POO\03ExercicioEscolar\obj\Debug\net7.0\ref\03ExercicioEscolar.dll
+C:\Codes\Csharp\Aulao-em-Csharp\POO\03ExercicioEscolar\bin\Debug\net7.0\03ExercicioEscolar.exe
+C:\Codes\Csharp\Aulao-em-Csharp\POO\03ExercicioEscolar\bin\Debug\net7.0\03ExercicioEscolar.deps.json
+C:\Codes\Csharp\Aulao-em-Csharp\POO\03ExercicioEscolar\bin\Debug\net7.0\03ExercicioEscolar.runtimeconfig.json
+C:\Codes\Csharp\Aulao-em-Csharp\POO\03ExercicioEscolar\bin\Debug\net7.0\03ExercicioEscolar.dll
+C:\Codes\Csharp\Aulao-em-Csharp\POO\03ExercicioEscolar\bin\Debug\net7.0\03ExercicioEscolar.pdb
+C:\Codes\Csharp\Aulao-em-Csharp\POO\03ExercicioEscolar\obj\Debug\net7.0\03ExercicioEscolar.csproj.AssemblyReference.cache
+C:\Codes\Csharp\Aulao-em-Csharp\POO\03ExercicioEscolar\obj\Debug\net7.0\03ExercicioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\Csharp\Aulao-em-Csharp\POO\03ExercicioEscolar\obj\Debug\net7.0\03ExercicioEscolar.AssemblyInfoInputs.cache
+C:\Codes\Csharp\Aulao-em-Csharp\POO\03ExercicioEscolar\obj\Debug\net7.0\03ExercicioEscolar.AssemblyInfo.cs
+C:\Codes\Csharp\Aulao-em-Csharp\POO\03ExercicioEscolar\obj\Debug\net7.0\03ExercicioEscolar.csproj.CoreCompileInputs.cache
+C:\Codes\Csharp\Aulao-em-Csharp\POO\03ExercicioEscolar\obj\Debug\net7.0\03ExercicioEscolar.dll
+C:\Codes\Csharp\Aulao-em-Csharp\POO\03ExercicioEscolar\obj\Debug\net7.0\refint\03ExercicioEscolar.dll
+C:\Codes\Csharp\Aulao-em-Csharp\POO\03ExercicioEscolar\obj\Debug\net7.0\03ExercicioEscolar.pdb
+C:\Codes\Csharp\Aulao-em-Csharp\POO\03ExercicioEscolar\obj\Debug\net7.0\03ExercicioEscolar.genruntimeconfig.cache
+C:\Codes\Csharp\Aulao-em-Csharp\POO\03ExercicioEscolar\obj\Debug\net7.0\ref\03ExercicioEscolar.dll

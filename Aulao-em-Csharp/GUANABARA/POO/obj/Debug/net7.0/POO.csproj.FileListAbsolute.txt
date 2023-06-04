@@ -1,0 +1,15 @@
+C:\Codes\Csharp\Aulao-em-Csharp\GUANABARA\POO\obj\Debug\net7.0\POO.csproj.AssemblyReference.cache
+C:\Codes\Csharp\Aulao-em-Csharp\GUANABARA\POO\obj\Debug\net7.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\Csharp\Aulao-em-Csharp\GUANABARA\POO\obj\Debug\net7.0\POO.AssemblyInfoInputs.cache
+C:\Codes\Csharp\Aulao-em-Csharp\GUANABARA\POO\obj\Debug\net7.0\POO.AssemblyInfo.cs
+C:\Codes\Csharp\Aulao-em-Csharp\GUANABARA\POO\obj\Debug\net7.0\POO.csproj.CoreCompileInputs.cache
+C:\Codes\Csharp\Aulao-em-Csharp\GUANABARA\POO\bin\Debug\net7.0\POO.exe
+C:\Codes\Csharp\Aulao-em-Csharp\GUANABARA\POO\bin\Debug\net7.0\POO.deps.json
+C:\Codes\Csharp\Aulao-em-Csharp\GUANABARA\POO\bin\Debug\net7.0\POO.runtimeconfig.json
+C:\Codes\Csharp\Aulao-em-Csharp\GUANABARA\POO\bin\Debug\net7.0\POO.dll
+C:\Codes\Csharp\Aulao-em-Csharp\GUANABARA\POO\bin\Debug\net7.0\POO.pdb
+C:\Codes\Csharp\Aulao-em-Csharp\GUANABARA\POO\obj\Debug\net7.0\POO.dll
+C:\Codes\Csharp\Aulao-em-Csharp\GUANABARA\POO\obj\Debug\net7.0\refint\POO.dll
+C:\Codes\Csharp\Aulao-em-Csharp\GUANABARA\POO\obj\Debug\net7.0\POO.pdb
+C:\Codes\Csharp\Aulao-em-Csharp\GUANABARA\POO\obj\Debug\net7.0\POO.genruntimeconfig.cache
+C:\Codes\Csharp\Aulao-em-Csharp\GUANABARA\POO\obj\Debug\net7.0\ref\POO.dll

@@ -1,0 +1,8 @@
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\estruturasCondicionais\bin\Debug\estruturasCondicionais.exe.config
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\estruturasCondicionais\bin\Debug\estruturasCondicionais.exe
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\estruturasCondicionais\bin\Debug\estruturasCondicionais.pdb
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\estruturasCondicionais\obj\Debug\estruturasCondicionais.csproj.AssemblyReference.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\estruturasCondicionais\obj\Debug\estruturasCondicionais.csproj.SuggestedBindingRedirects.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\estruturasCondicionais\obj\Debug\estruturasCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\estruturasCondicionais\obj\Debug\estruturasCondicionais.exe
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\estruturasCondicionais\obj\Debug\estruturasCondicionais.pdb

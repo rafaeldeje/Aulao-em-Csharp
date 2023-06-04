@@ -1,0 +1,8 @@
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\contadorSwitch\obj\Debug\contadorSwitch.csproj.AssemblyReference.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\contadorSwitch\obj\Debug\contadorSwitch.csproj.SuggestedBindingRedirects.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\contadorSwitch\obj\Debug\contadorSwitch.csproj.CoreCompileInputs.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\contadorSwitch\bin\Debug\contadorSwitch.exe.config
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\contadorSwitch\bin\Debug\contadorSwitch.exe
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\contadorSwitch\bin\Debug\contadorSwitch.pdb
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\contadorSwitch\obj\Debug\contadorSwitch.exe
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\contadorSwitch\obj\Debug\contadorSwitch.pdb

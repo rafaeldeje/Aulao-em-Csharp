@@ -1,0 +1,21 @@
+Nos anos 90 a microsoft tinha muitos programadores que usavam muitas linguagens de programacao para seus projetos. E tinham que aprender todas as blibiotecas de cada linguagem nova. E então veio a linguagem JAVA, que rodava em todos os dispositivos, em qualquer plataforma ou ambiente computacional.
+
+Plataforma de .NET é uma plataforma de conjunto de bliblioteca = Permitir que muitas linguagens usassem suas blibiotecas. Para cada linguagem diferente usada poderá usar o .NET.
+
+C# é uma linguagem que trabalha usando o .net
+
+C# pode criar tudo. 
+_____
+
+quando criamos o ARQUIVO, os primeiros são os modulos/pacotes, funcionam como as bibliotecas do C (<stdio>)
+SYSTEM; C# manipular os dados do usuario, data, saber os programas abertos, le a maquina
+GENERIC; nao é agora pra ver
+LINQ; trabalha com conjunto de dados
+TEXT; permite que voce manipule o texto
+THREADING.TASK; cria um programa para rodar em todos os nucleos do pc
+todos iniciam com System.
+Usando a palavra "using" tras outros modulos que voce consiga usar no seu arquivo.
+NET; usa elementos de redes
+
+WriteLine pula a linha
+

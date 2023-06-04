@@ -1,0 +1,8 @@
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\usandoMatematica\bin\Debug\usandoMatematica.exe.config
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\usandoMatematica\bin\Debug\usandoMatematica.exe
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\usandoMatematica\bin\Debug\usandoMatematica.pdb
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\usandoMatematica\obj\Debug\usandoMatematica.csproj.AssemblyReference.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\usandoMatematica\obj\Debug\usandoMatematica.csproj.SuggestedBindingRedirects.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\usandoMatematica\obj\Debug\usandoMatematica.csproj.CoreCompileInputs.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\usandoMatematica\obj\Debug\usandoMatematica.exe
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\HelloWorld\usandoMatematica\obj\Debug\usandoMatematica.pdb

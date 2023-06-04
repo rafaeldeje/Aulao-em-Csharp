@@ -1,0 +1,8 @@
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\usandoEnum\bin\Debug\usandoEnum.exe.config
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\usandoEnum\bin\Debug\usandoEnum.exe
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\usandoEnum\bin\Debug\usandoEnum.pdb
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\usandoEnum\obj\Debug\usandoEnum.csproj.AssemblyReference.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\usandoEnum\obj\Debug\usandoEnum.csproj.SuggestedBindingRedirects.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\usandoEnum\obj\Debug\usandoEnum.csproj.CoreCompileInputs.cache
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\usandoEnum\obj\Debug\usandoEnum.exe
+C:\Users\RafaFull\Documents\faculdade morzim\Crystyano cursos\Aulao-em-Csharp\IntroducaoAoCsharp\usandoEnum\obj\Debug\usandoEnum.pdb

@@ -1,0 +1,15 @@
+C:\Codes\Csharp\Aulao-em-Csharp\POO\09This\bin\Debug\net7.0\09This.exe
+C:\Codes\Csharp\Aulao-em-Csharp\POO\09This\bin\Debug\net7.0\09This.deps.json
+C:\Codes\Csharp\Aulao-em-Csharp\POO\09This\bin\Debug\net7.0\09This.runtimeconfig.json
+C:\Codes\Csharp\Aulao-em-Csharp\POO\09This\bin\Debug\net7.0\09This.dll
+C:\Codes\Csharp\Aulao-em-Csharp\POO\09This\bin\Debug\net7.0\09This.pdb
+C:\Codes\Csharp\Aulao-em-Csharp\POO\09This\obj\Debug\net7.0\09This.csproj.AssemblyReference.cache
+C:\Codes\Csharp\Aulao-em-Csharp\POO\09This\obj\Debug\net7.0\09This.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\Csharp\Aulao-em-Csharp\POO\09This\obj\Debug\net7.0\09This.AssemblyInfoInputs.cache
+C:\Codes\Csharp\Aulao-em-Csharp\POO\09This\obj\Debug\net7.0\09This.AssemblyInfo.cs
+C:\Codes\Csharp\Aulao-em-Csharp\POO\09This\obj\Debug\net7.0\09This.csproj.CoreCompileInputs.cache
+C:\Codes\Csharp\Aulao-em-Csharp\POO\09This\obj\Debug\net7.0\09This.dll
+C:\Codes\Csharp\Aulao-em-Csharp\POO\09This\obj\Debug\net7.0\refint\09This.dll
+C:\Codes\Csharp\Aulao-em-Csharp\POO\09This\obj\Debug\net7.0\09This.pdb
+C:\Codes\Csharp\Aulao-em-Csharp\POO\09This\obj\Debug\net7.0\09This.genruntimeconfig.cache
+C:\Codes\Csharp\Aulao-em-Csharp\POO\09This\obj\Debug\net7.0\ref\09This.dll

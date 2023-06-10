@@ -1,0 +1,15 @@
+C:\Codes\Csharp\Aulao-em-Csharp\POO\08GeteSet2\obj\Debug\net7.0\08GeteSet2.csproj.AssemblyReference.cache
+C:\Codes\Csharp\Aulao-em-Csharp\POO\08GeteSet2\obj\Debug\net7.0\08GeteSet2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\Csharp\Aulao-em-Csharp\POO\08GeteSet2\obj\Debug\net7.0\08GeteSet2.AssemblyInfoInputs.cache
+C:\Codes\Csharp\Aulao-em-Csharp\POO\08GeteSet2\obj\Debug\net7.0\08GeteSet2.AssemblyInfo.cs
+C:\Codes\Csharp\Aulao-em-Csharp\POO\08GeteSet2\obj\Debug\net7.0\08GeteSet2.csproj.CoreCompileInputs.cache
+C:\Codes\Csharp\Aulao-em-Csharp\POO\08GeteSet2\bin\Debug\net7.0\08GeteSet2.exe
+C:\Codes\Csharp\Aulao-em-Csharp\POO\08GeteSet2\bin\Debug\net7.0\08GeteSet2.deps.json
+C:\Codes\Csharp\Aulao-em-Csharp\POO\08GeteSet2\bin\Debug\net7.0\08GeteSet2.runtimeconfig.json
+C:\Codes\Csharp\Aulao-em-Csharp\POO\08GeteSet2\bin\Debug\net7.0\08GeteSet2.dll
+C:\Codes\Csharp\Aulao-em-Csharp\POO\08GeteSet2\bin\Debug\net7.0\08GeteSet2.pdb
+C:\Codes\Csharp\Aulao-em-Csharp\POO\08GeteSet2\obj\Debug\net7.0\08GeteSet2.dll
+C:\Codes\Csharp\Aulao-em-Csharp\POO\08GeteSet2\obj\Debug\net7.0\refint\08GeteSet2.dll
+C:\Codes\Csharp\Aulao-em-Csharp\POO\08GeteSet2\obj\Debug\net7.0\08GeteSet2.pdb
+C:\Codes\Csharp\Aulao-em-Csharp\POO\08GeteSet2\obj\Debug\net7.0\08GeteSet2.genruntimeconfig.cache
+C:\Codes\Csharp\Aulao-em-Csharp\POO\08GeteSet2\obj\Debug\net7.0\ref\08GeteSet2.dll

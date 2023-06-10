@@ -6,7 +6,7 @@ class Program
     {
         Produto p = new Produto();
         p.nome = "rafael";
-        p.valor = 11;
+        //p.valor = 11; ("Produto.valor" é inacessível devido ao seu nível de proteção)
         //p.valor nao mostra
     }
 }

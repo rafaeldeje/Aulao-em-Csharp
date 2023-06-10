@@ -1,0 +1,15 @@
+C:\Codes\Csharp\Aulao-em-Csharp\POO\10Herança\bin\Debug\net7.0\10Herança.exe
+C:\Codes\Csharp\Aulao-em-Csharp\POO\10Herança\bin\Debug\net7.0\10Herança.deps.json
+C:\Codes\Csharp\Aulao-em-Csharp\POO\10Herança\bin\Debug\net7.0\10Herança.runtimeconfig.json
+C:\Codes\Csharp\Aulao-em-Csharp\POO\10Herança\bin\Debug\net7.0\10Herança.dll
+C:\Codes\Csharp\Aulao-em-Csharp\POO\10Herança\bin\Debug\net7.0\10Herança.pdb
+C:\Codes\Csharp\Aulao-em-Csharp\POO\10Herança\obj\Debug\net7.0\10Herança.csproj.AssemblyReference.cache
+C:\Codes\Csharp\Aulao-em-Csharp\POO\10Herança\obj\Debug\net7.0\10Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\Csharp\Aulao-em-Csharp\POO\10Herança\obj\Debug\net7.0\10Herança.AssemblyInfoInputs.cache
+C:\Codes\Csharp\Aulao-em-Csharp\POO\10Herança\obj\Debug\net7.0\10Herança.AssemblyInfo.cs
+C:\Codes\Csharp\Aulao-em-Csharp\POO\10Herança\obj\Debug\net7.0\10Herança.csproj.CoreCompileInputs.cache
+C:\Codes\Csharp\Aulao-em-Csharp\POO\10Herança\obj\Debug\net7.0\10Herança.dll
+C:\Codes\Csharp\Aulao-em-Csharp\POO\10Herança\obj\Debug\net7.0\refint\10Herança.dll
+C:\Codes\Csharp\Aulao-em-Csharp\POO\10Herança\obj\Debug\net7.0\10Herança.pdb
+C:\Codes\Csharp\Aulao-em-Csharp\POO\10Herança\obj\Debug\net7.0\10Herança.genruntimeconfig.cache
+C:\Codes\Csharp\Aulao-em-Csharp\POO\10Herança\obj\Debug\net7.0\ref\10Herança.dll

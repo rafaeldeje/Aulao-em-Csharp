@@ -1,0 +1,15 @@
+C:\Codes\Csharp\Aulao-em-Csharp\POO\11Polimorfismo\obj\Debug\net7.0\11Polimorfismo.csproj.AssemblyReference.cache
+C:\Codes\Csharp\Aulao-em-Csharp\POO\11Polimorfismo\obj\Debug\net7.0\11Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\Csharp\Aulao-em-Csharp\POO\11Polimorfismo\obj\Debug\net7.0\11Polimorfismo.AssemblyInfoInputs.cache
+C:\Codes\Csharp\Aulao-em-Csharp\POO\11Polimorfismo\obj\Debug\net7.0\11Polimorfismo.AssemblyInfo.cs
+C:\Codes\Csharp\Aulao-em-Csharp\POO\11Polimorfismo\obj\Debug\net7.0\11Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Codes\Csharp\Aulao-em-Csharp\POO\11Polimorfismo\bin\Debug\net7.0\11Polimorfismo.exe
+C:\Codes\Csharp\Aulao-em-Csharp\POO\11Polimorfismo\bin\Debug\net7.0\11Polimorfismo.deps.json
+C:\Codes\Csharp\Aulao-em-Csharp\POO\11Polimorfismo\bin\Debug\net7.0\11Polimorfismo.runtimeconfig.json
+C:\Codes\Csharp\Aulao-em-Csharp\POO\11Polimorfismo\bin\Debug\net7.0\11Polimorfismo.dll
+C:\Codes\Csharp\Aulao-em-Csharp\POO\11Polimorfismo\bin\Debug\net7.0\11Polimorfismo.pdb
+C:\Codes\Csharp\Aulao-em-Csharp\POO\11Polimorfismo\obj\Debug\net7.0\11Polimorfismo.dll
+C:\Codes\Csharp\Aulao-em-Csharp\POO\11Polimorfismo\obj\Debug\net7.0\refint\11Polimorfismo.dll
+C:\Codes\Csharp\Aulao-em-Csharp\POO\11Polimorfismo\obj\Debug\net7.0\11Polimorfismo.pdb
+C:\Codes\Csharp\Aulao-em-Csharp\POO\11Polimorfismo\obj\Debug\net7.0\11Polimorfismo.genruntimeconfig.cache
+C:\Codes\Csharp\Aulao-em-Csharp\POO\11Polimorfismo\obj\Debug\net7.0\ref\11Polimorfismo.dll

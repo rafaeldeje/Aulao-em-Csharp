@@ -1,0 +1,15 @@
+C:\Codes\Csharp\Aulao-em-Csharp\POO\12Estatico\bin\Debug\net7.0\12Estatico.exe
+C:\Codes\Csharp\Aulao-em-Csharp\POO\12Estatico\bin\Debug\net7.0\12Estatico.deps.json
+C:\Codes\Csharp\Aulao-em-Csharp\POO\12Estatico\bin\Debug\net7.0\12Estatico.runtimeconfig.json
+C:\Codes\Csharp\Aulao-em-Csharp\POO\12Estatico\bin\Debug\net7.0\12Estatico.dll
+C:\Codes\Csharp\Aulao-em-Csharp\POO\12Estatico\bin\Debug\net7.0\12Estatico.pdb
+C:\Codes\Csharp\Aulao-em-Csharp\POO\12Estatico\obj\Debug\net7.0\12Estatico.csproj.AssemblyReference.cache
+C:\Codes\Csharp\Aulao-em-Csharp\POO\12Estatico\obj\Debug\net7.0\12Estatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codes\Csharp\Aulao-em-Csharp\POO\12Estatico\obj\Debug\net7.0\12Estatico.AssemblyInfoInputs.cache
+C:\Codes\Csharp\Aulao-em-Csharp\POO\12Estatico\obj\Debug\net7.0\12Estatico.AssemblyInfo.cs
+C:\Codes\Csharp\Aulao-em-Csharp\POO\12Estatico\obj\Debug\net7.0\12Estatico.csproj.CoreCompileInputs.cache
+C:\Codes\Csharp\Aulao-em-Csharp\POO\12Estatico\obj\Debug\net7.0\12Estatico.dll
+C:\Codes\Csharp\Aulao-em-Csharp\POO\12Estatico\obj\Debug\net7.0\refint\12Estatico.dll
+C:\Codes\Csharp\Aulao-em-Csharp\POO\12Estatico\obj\Debug\net7.0\12Estatico.pdb
+C:\Codes\Csharp\Aulao-em-Csharp\POO\12Estatico\obj\Debug\net7.0\12Estatico.genruntimeconfig.cache
+C:\Codes\Csharp\Aulao-em-Csharp\POO\12Estatico\obj\Debug\net7.0\ref\12Estatico.dll
